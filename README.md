@@ -39,4 +39,4 @@ Then open [`Weight_Init_&_Dropout_with_Relu.ipynb`](Weight_Init_%26_Dropout_with
 
 <br>
 
-<p align="center"><sub>Part of the work of <a href="https://github.com/johnnyk1090">Giannis Konteas</a> · end-to-end data science</sub></p>
+<p align="center"><sub>Part of the work of <a href="https://github.com/johnnyk1090">John Konteas</a> · end-to-end data science</sub></p>
